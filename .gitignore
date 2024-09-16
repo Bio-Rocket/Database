@@ -1,0 +1,31 @@
+# MacOS
+.DS_Store
+
+# vscode
+.vscode
+*.hushlogin
+
+# Svelte
+build/
+node_modules
+/build
+.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Pocketbase
+/database/pb_data
+/database/pocketbase
+
+# Backend
+/backend/logs
+
+# proto
+__pycache__
+*.pyc
+
+.env
