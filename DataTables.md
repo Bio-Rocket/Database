@@ -8,8 +8,8 @@ lj1_data : [JSON[List]]
 
 - [0] = FIO0 (SOL1)
 - [1] = FIO1 (SOL2)
-- [2] = FIO2 (SOL2)
-- [3] = FIO3 (SOL2)
+- [2] = FIO2 (SOL3)
+- [3] = FIO3 (SOL4)
 - [4] = AIN6 (PT7)
 - [5] = AIN7 (PT8)
 - [6] = AIN8 (PT9)
