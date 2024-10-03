@@ -1,6 +1,6 @@
 # Labjack 1 Data
 
-## LJ1 Table Schema
+## LabJack1 Table Schema
 
 lj1_data : [JSON[List]]
 
@@ -20,7 +20,7 @@ lj1_data : [JSON[List]]
 
 # Labjack 2 Data
 
-## LJ2 Table Schema
+## LabJack2 Table Schema
 
 lj2_data : [JSON[List]]
 
@@ -36,7 +36,7 @@ lj2_data : [JSON[List]]
 
 # PLC Data
 
-## PLC Table Schema
+## Plc Table Schema
 
 plc_data : [JSON[List]]
 

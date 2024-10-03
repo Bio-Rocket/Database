@@ -1,6 +1,6 @@
 # Labjack 1 Commands
 
-## LJ1 Table Schema
+## LabJack1Commands Table Schema
 
 command : String
 
@@ -25,7 +25,7 @@ value : Number (Only used for EPR_SET)
 
 # Labjack 2 Commands
 
-## LJ2 Table Schema
+## LabJack2Commands Table Schema
 
 loadcell : String
 
@@ -54,7 +54,7 @@ value : Number
 
 # PLC Commands
 
-## PLC Table Schema
+## PlcCommands Table Schema
 
 loadcell : String (Only used for calibration)
 
