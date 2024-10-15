@@ -1,1 +1,1 @@
-/home/soar/RocketControlUnit/database/pocketbase serve --http="192.168.0.69:8090"
+/home/soar/Database/database/pocketbase serve --http="192.168.0.69:8090"
