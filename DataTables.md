@@ -1,8 +1,8 @@
-# Labjack 1 Data
+# Labjack Data
 
-## LabJack1 Table Schema
+## LabJack Table Schema
 
-lj1_data : [JSON[List]]
+lj_data : [JSON[List]]
 
 ### LJ1 Data
 
@@ -17,22 +17,6 @@ lj1_data : [JSON[List]]
 - [8] = AIN10 (PT11)
 - [9] = AIN11 (PT12)
 - [10] = FIO6 (SYNC)
-
-# Labjack 2 Data
-
-## LabJack2 Table Schema
-
-lj2_data : [JSON[List]]
-
-### LJ2 Data
-
-- [0] = AIN0 (LC3)
-- [1] = AIN1 (LC4)
-- [2] = AIN2 (LC5)
-- [3] = AIN3 (LC6)
-- [4] = AIN4 (PT13)
-- [5] = AIN5 (PT14)
-- [6] = FIO6 (SYNC)
 
 # PLC Data
 
