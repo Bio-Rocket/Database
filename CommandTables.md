@@ -27,10 +27,10 @@ value : Number (Only used for calibration)
 - PBV7_CLOSE
 - PBV8_OPEN
 - PBV8_CLOSE
-- PMP1_ON
-- PMP1_OFF
-- PMP2_ON
-- PMP2_OFF
+- SOL12_OPEN
+- SOL12_CLOSE
+- SOL13_OPEN
+- SOL13_CLOSE
 - PMP3_ON
 - PMP3_OFF
 - IGN1_ON
