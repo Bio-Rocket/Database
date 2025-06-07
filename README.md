@@ -16,6 +16,10 @@
 
 ### Remotely (Running on the pi)
 
-- ```./database/pocketbase serve --http='http://192.168.0.69:8090'```
-  
- 
+- ```./database/pocketbase serve --http='192.168.0.69:8090'```
+- NOTE: this will only work with the raspberry Pi on the correct router
+
+## Admin Setup
+
+- If this is the first time running the database go to the Dashboard link provided when running serve.
+- Provide and email and password to create an account, make sure the .env in the front and backend have the matching email and passwords as well see the readme here: <https://github.com/Bio-Rocket/LabJack>
