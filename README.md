@@ -16,7 +16,7 @@
 
 ### Remotely (Running on the pi)
 
-- ```./database/pocketbase serve --http='192.168.0.69:8090'```
+- ```./database/pocketbase serve --http='192.168.8.68:8090'```
 - NOTE: this will only work with the raspberry Pi on the correct router
 
 ## Admin Setup
